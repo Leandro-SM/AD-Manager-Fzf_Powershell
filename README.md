@@ -8,7 +8,7 @@
 
 O módulo fzf permite exibir, paginar e navegar em uma lista de itens da interface com teclas de atalho.
 
-![menu](img/img-01.png)
+![menu](img/img-.png)
 
 
 ---
