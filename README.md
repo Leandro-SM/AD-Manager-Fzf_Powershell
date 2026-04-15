@@ -8,7 +8,7 @@
 
 O módulo fzf permite exibir, paginar e navegar em uma lista de itens da interface com teclas de atalho.
 
-![menu](imag/img-01.png)
+![menu](img/img-01.png)
 
 
 ---
@@ -51,7 +51,7 @@ O módulo fzf permite exibir, paginar e navegar em uma lista de itens da interfa
 - Estatísticas do domínio (usuários, computadores, grupos)
 - Geração de relatório completo em **HTML** (salvo na área de trabalho)
 
-![menu](imag/img-02.png)
+![menu](img/img-02.png)
 
 ---
 
@@ -128,7 +128,7 @@ O script tentará enviar usando essas configurações. Se falhar, exibirá o err
 
 💡 Você pode modificar o script para usar credenciais fixas ou variáveis de ambiente.
 
-![menu](imag/img-03.png)
+![menu](img/img-03.png)
 
 📁 Estrutura de Arquivos Gerados
 Arquivo/Pasta	Descrição
